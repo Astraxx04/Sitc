@@ -1,11 +1,11 @@
 function WhyUs() {
     return(
-        <div className="lg:mx-72 pb-8">
+        <div className="lg:mx-72 lg:pb-8 md:mx-24 md:pb-8 mx-5 pb-8">
             <div>
-                <p className="font-sans text-2xl pb-2">How does it work?</p>
+                <p className="font-sans text-2xl pb-2 pt-8">How does it work?</p>
                 <ol className="list-decimal font-normal pl-4">
                     <li>In case you are a new user, please register your details.</li>
-					<li>On successful registration, please get in touch with us (East Africa: <a className="text-orange-600" href="mailto:sales01@hodariafrica.com">sales01@hodariafrica.com</a> or Whatsapp Mobile: <a className="text-orange-600" href="https://wa.me/254708115622">+254 708115622</a> / <a className="text-orange-600" href="tel://+254746872870"><br />+254 746872870</a> & India : <a className="text-orange-600" href="mailto:geeta@safariin3clicks.com">geeta@safariin3clicks.com</a>, Whatsapp Number: <a className="text-orange-600" href="https://wa.me/919953845495">+919953845495 </a>) for the rate-card access to the key in your prices.</li>
+					<li>On successful registration, please get in touch with us (East Africa: <a className="text-orange-600" href="mailto:sales01@hodariafrica.com">sales01@hodariafrica.com</a> or Whatsapp Mobile: <a className="text-orange-600" href="https://wa.me/254708115622">+254 708115622</a> / <a className="text-orange-600" href="tel://+254746872870">+254 746872870</a> & India : <a className="text-orange-600" href="mailto:geeta@safariin3clicks.com">geeta@safariin3clicks.com</a>, Whatsapp Number: <a className="text-orange-600" href="https://wa.me/919953845495">+919953845495 </a>) for the rate-card access to the key in your prices.</li>
 					<li>Once access is provided, Go to the home page & click on "Access my Rate table" followed by "Update my rate table."</li>
 					<li>That’s it. Now you are all set. Your Safari-in-3clicks portal is fully functional to use!!</li>
                 </ol>
