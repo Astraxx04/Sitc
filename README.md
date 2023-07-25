@@ -1,2 +1,3 @@
 # Sitc
-Clone using React
+Cloned website using React
+Link to website: https://wildtrails.netlify.app
